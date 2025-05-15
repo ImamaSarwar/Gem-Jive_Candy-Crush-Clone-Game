@@ -1,4 +1,21 @@
 # Gem-Jive
+This project is a Candy Crush Clone game developed in C++ using OpenGL as part of a Programming Fundamentals(PF) course. It brings a colorful and interactive gem-matching experience with several engaging features.
+## Features
+### Login System
+- Players enter their name at the start, creating a personalized experience.
+### Classic Match-3 Gameplay
+- Players can swap adjacent gems using the mouse. Matching a minimum of three identical gems forms a valid chain. Longer chains yield higher rewards, promoting strategic play.
+### Dual Gameplay Modes
+- Normal Mode: Allows unrestricted play without time constraints.
+- Time Trial Mode: Challenges the player to achieve the highest possible score within a limited time frame.
+### Progressive Levels
+- The game includes a level-based system where new levels are unlocked based on the player’s cumulative score, increasing in complexity as the game progresses.
+### Hint System
+- An integrated hint feature assists players by suggesting a valid move when no immediate chain is visible, helping maintain gameplay flow.
+### State Control (Play/Pause/Resume)
+- The game  supports play, pause, and resume functionality, allowing users to manage their gameplay sessions effectively.
+### Menus
+- Several menus including a comprehensive instructions menu outlining core mechanics and controls.
 ## Getting Started
 Follow these steps to build and run the game on a Linux system
 ### Install Required Libraries 
