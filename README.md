@@ -8,5 +8,5 @@ Follow these steps to build and run the game on a Linux system
 - make
 - ./game
 ## Acknowledgements
-- Project Partner: (https://github.com/hiyamrehan)
+- Project Partner: ![Hiyam Rehan](https://github.com/hiyamrehan)
 ### Enjoy!
