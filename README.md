@@ -16,6 +16,7 @@ This project is a Candy Crush Clone game developed in C++ using OpenGL as part o
 - The game  supports play, pause, and resume functionality, allowing users to manage their gameplay sessions effectively.
 ### Menus
 - Several menus including a comprehensive instructions menu outlining core mechanics and controls.
+![Game UI](https://github.com/ImamaSarwar/Gem-Jive_Candy-Crush-Clone-Game/raw/f29c5428e1ea60fd3f08874c81d9bce9bbb90875/Game%20UI.png)
 ## Getting Started
 Follow these steps to build and run the game on a Linux system
 ### Install Required Libraries 
